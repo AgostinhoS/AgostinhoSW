@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2026-07-14
+img: BINFpipeline.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2026
+system: Linux, Ubuntu, Nextflow, Docker
+category: Bioinformatics
+description: Guided tutorial implementation of nextflow, docker, and bash scripting to create a reproducable bioinformatics pipeline. End-to-end process involving downloading files, FASTQC, trimming, BWA, variant calling and data visualization. Ran within a linux WSL2 environment.
 ---
