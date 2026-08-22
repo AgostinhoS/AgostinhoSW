@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2026-08-22
-img: safe.png
+img: depmaplogo.png
 alt: image-alt
 project-date: August 2026
 system: Colab, Python
