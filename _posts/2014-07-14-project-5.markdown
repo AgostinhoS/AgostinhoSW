@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2026-08-22
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2026
+system: Colab, Python
+category: Data analytics, oncology
+description: Pulling CRISPR perturb-seq data from DepMap. Currently practiced requesting data from the DepMap API with a basic analysis, working towards screening of genes and cancer targets based off pertubation data.
+link: https://github.com/AgostinhoS/DepMapAnalysis/tree/main
 ---
