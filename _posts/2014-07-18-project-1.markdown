@@ -7,5 +7,6 @@ alt: image-alt
 project-date: October 2025
 System: Python, Google Colab
 category: Machine Learning Fundamentals
-description: Guided implementation of several machine learning algorithms and multilayer perceptron. Done through UCSD Extension Learning under the FUTURES Scholarship. [Click Here](https://github.com/AgostinhoS/Machine-Learning-Basics-and-Implementation)
+description: Guided implementation of several machine learning algorithms and multilayer perceptron. Done through UCSD Extension Learning under the FUTURES Scholarship. 
+link: https://github.com/AgostinhoS/Machine-Learning-Basics-and-Implementation
 ---
