@@ -8,4 +8,5 @@ project-date: July 2026
 system: Linux, Ubuntu, Nextflow, Docker
 category: Bioinformatics
 description: Guided tutorial implementation of nextflow, docker, and bash scripting to create a reproducable bioinformatics pipeline. End-to-end process involving downloading files, FASTQC, trimming, BWA, variant calling and data visualization. Ran within a linux WSL2 environment.
+link: https://github.com/AgostinhoS/Ecoli-Bionformatics-Introduction
 ---
