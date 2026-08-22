@@ -8,4 +8,5 @@ project-date: August 2026
 system: WSL2, Nextflow, Docker, Python
 category: Bioinformatics
 description: Guided implementation of publicly available 4D Nucleosome Project data. End-to-end Hi-C pipeline which displays chromosomal interactions and structure.
+link: https://github.com/AgostinhoS/HiC_Pipeline/tree/main
 ---
