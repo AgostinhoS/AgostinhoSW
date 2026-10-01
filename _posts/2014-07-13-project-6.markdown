@@ -7,6 +7,6 @@ alt: image-alt
 project-date: August 2026
 system: Kaggle, Python, Pytorch
 category: Deep Learning, biomedical data
-description: 3D UNET structure trained on sparsely annotated data to detect cell centers. Utilizes laptrack to determine cell lineage across divisions and time.
+description: 3D UNET structure trained on sparsely annotated data to output probabilities of cell centers. Inputs are indiviudal time frames (treated independently) and a heatmap of probabilities. Implemented a hungarian tracking algorithm to link frames.
 link: https://github.com/AgostinhoS/KAGGLE---Biohub-Cell-Tracking
 ---
